@@ -41,4 +41,11 @@ items:
     input:
       status: passed
       note: 25 Aug 2023
+  - name: |
+      Conduct periodic architecture reviews (minimum once every year)
+    uses: >-
+      jitsecurity-controls/jit-plans/items/architecture_review/item-arch-review.yml@latest
+    input:
+      status: passed
+      note: 30-8-2023
 
